@@ -17,6 +17,12 @@ Thank you for visiting my website
 <br />
 <br />
 <br />
+About:
+<br />
+I am a student who creates and published video games. A software engineer. I created a test website for furture programming
+<br />
+<br />
+<br />
 Goofy Ahh Monkey Below
 <br />
 <br />
