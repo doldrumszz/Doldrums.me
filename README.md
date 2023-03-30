@@ -19,7 +19,7 @@ Thank you for visiting my website
 <br />
 About:
 <br />
-I am a student who creates and published video games. A software engineer. I created a test website for furture programming
+I am a student who creates and published video games. A software engineer. I created a test website for furture programming. I created this domain/website using github pages. This was made with javascript.
 <br />
 <br />
 <br />
