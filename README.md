@@ -34,8 +34,7 @@ Here are some photos of my creations:
 <img width="200" alt="my room" src="https://user-images.githubusercontent.com/125189307/229464582-6b47ad20-0f9d-44b4-91be-5ab497170fd0.png">
 <br />
 <br />
-#--------------------------------------------
-Goofy Ahh Monkey Below
+______Goofy Ahh Monkey Below______
 <br />
 <br />
 <img width="300" alt="Screenshot 2023-03-30 162721" src="https://user-images.githubusercontent.com/125189307/228840636-a6a6df93-0c99-43b0-bd33-3165084d863f.png">
