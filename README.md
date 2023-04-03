@@ -1,4 +1,4 @@
-link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 # **Welcome to my website!**
 ## This Webstie is a Test
 <br />
