@@ -37,7 +37,11 @@ Here are some photos of my creations:
 <br />
 <br />
 <br />
-______Goofy Ahh Monkey Below______
+<br />
+<br />
+<br />
+<br />
+Thank you for visiting my website
 <br />
 <br />
 <br />
