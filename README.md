@@ -57,4 +57,11 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 
 
+function openPopup() {
+	document.getElementById("popup").style.display = "block";
+}
+
+function closePopup() {
+	document.getElementById("popup").style.display = "none";
+}
 
