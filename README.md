@@ -57,24 +57,4 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Popup Example</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-<body>
-	<button onclick="openPopup()">Click me</button>
-
-	<div class="popup" id="popup">
-		<div class="popup-content">
-			<h2>This is a popup!</h2>
-			<p>Click the close button to close the popup.</p>
-			<button onclick="closePopup()">Close</button>
-		</div>
-	</div>
-
-	<script src="script.js"></script>
-</body>
-</html>
 
