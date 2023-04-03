@@ -4,5 +4,5 @@ plugins:
 
 # Configuration file for Jekyll
 title: doldrums.me
-favicon: /static/favicon.png
+favicon: /static/favicon.ico.png
 
