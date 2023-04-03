@@ -55,7 +55,6 @@ Thank you for visiting my website
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tS92P9PWNfU" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Click Me!</title>
@@ -70,7 +69,7 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 			width: 100%; /* Full width */
 			height: 100%; /* Full height */
 			overflow: auto; /* Enable scroll if needed */
-			background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+			background-color: rgba(0,0,0); /* Black w/ opacity */
 		}
 		
 		/* Styling for the popup content */
