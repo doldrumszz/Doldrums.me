@@ -75,7 +75,7 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 		
 		/* Styling for the popup content */
 		.popup-content {
-			background-color: #ffffee;
+			background-color: #000000;
 			margin: 15% auto; /* 15% from the top and centered */
 			padding: 20px;
 			border: 1px solid #888;
