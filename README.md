@@ -14,6 +14,13 @@
 <br />
 Thank you for visiting my website
 <br />
+<button onclick="myFunction()">Click Me!</button>
+
+<script>
+function myFunction() {
+  alert("Thanks for visiting my website!");
+}
+</script>
 <br />
 <br />
 <br />
@@ -46,13 +53,3 @@ Thank you for visiting my website
 <br />
 <br />
 <img width="300" alt="Screenshot 2023-03-30 162721" src="https://user-images.githubusercontent.com/125189307/228840636-a6a6df93-0c99-43b0-bd33-3165084d863f.png">
-<br />
-<br />
-<button onclick="myFunction()">Click me!</button>
-
-<script>
-function myFunction() {
-  alert("Hello world!");
-}
-</script>
-
