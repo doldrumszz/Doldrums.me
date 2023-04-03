@@ -54,11 +54,11 @@ Thank you for visiting my website
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tS92P9PWNfU" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br />
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Popup Example</title>
+	<title>Click Me!</title>
 	<style>
 		/* Styling for the popup container */
 		.popup {
@@ -75,7 +75,7 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 		
 		/* Styling for the popup content */
 		.popup-content {
-			background-color: #fefefe;
+			background-color: #ffffee;
 			margin: 15% auto; /* 15% from the top and centered */
 			padding: 20px;
 			border: 1px solid #888;
@@ -100,7 +100,7 @@ frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media
 </head>
 <body>
 
-	<h2>Popup Example</h2>
+	<h2>You have been hacked</h2>
 
 	<!-- The button that triggers the popup -->
 	<button onclick="openPopup()">Open Popup</button>
