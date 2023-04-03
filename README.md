@@ -14,6 +14,7 @@
 <br />
 Thank you for visiting my website
 <br />
+<br />
 <button onclick="myFunction()">Click Me!</button>
 
 <script>
@@ -21,7 +22,6 @@ function myFunction() {
   alert("Thanks for visiting my website!");
 }
 </script>
-<br />
 <br />
 <br />
 About:
