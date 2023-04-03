@@ -54,14 +54,3 @@ Thank you for visiting my website
 <br />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tS92P9PWNfU" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-function openPopup() {
-	document.getElementById("popup").style.display = "block";
-}
-
-function closePopup() {
-	document.getElementById("popup").style.display = "none";
-}
-
