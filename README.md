@@ -1,3 +1,5 @@
+<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+
 # **Welcome to my website!**
 ## This Webstie is a Test
 <br />
