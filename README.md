@@ -1,4 +1,4 @@
-<link rel="icon" href="public/favicon.ico.png" type="image/x-icon"/>
+<link rel="icon" href="public/favicon.ico" type="image/x-icon"/>
 
 # **Welcome to my website!**
 ## This Webstie is a Test
