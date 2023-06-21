@@ -60,8 +60,6 @@ Here are some photos of my creations:
 <br />
 <br />
 <br />
-<br />
-<br />
 <style>
     .thank-you {
         font-size: 24px;
