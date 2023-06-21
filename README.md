@@ -60,6 +60,8 @@ Here are some photos of my creations:
     .image-row img {
         margin: 10px;
     }
+<br />
+<br />
 </style>
 
 <div class="image-row">
