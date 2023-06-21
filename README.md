@@ -13,9 +13,8 @@
 <br />
 <br />
 <p align="center">
-// Thank you for visiting my website!
+Thank you for visiting my website!
 </p>
-</div>
 <br />
 <br />
 <br />
@@ -54,7 +53,6 @@ Here are some photos of my creations:
     <img alt="logo 4 good game" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/c961d31d-f333-49b3-aef1-ee315b145450">
     <img alt="th (2)" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/fe86cd46-dd88-4a12-8bf0-487963a70f6f">
     <img alt="my room" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/c9ba33a0-eb12-4bd5-83c4-1ff18192af84">
-</div>
 <br />
 <br />
 <br />
