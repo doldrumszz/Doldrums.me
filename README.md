@@ -63,11 +63,12 @@ Here are some photos of my creations:
         font-size: 24px;
     }
 </style>
-
+<br />
+<br />    
+<br />   
 <div class="thank-you">
     Thank you for visiting my website
 </div>
-
 <br />
 <br />
 
