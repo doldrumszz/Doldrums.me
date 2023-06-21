@@ -12,8 +12,9 @@
 <br />
 <br />
 <br />
-<div class="center">
-    <p>Thank you for visiting my website!</p>
+<p align="center">
+// Thank you for visiting my website!
+</p>
 </div>
 <br />
 <br />
