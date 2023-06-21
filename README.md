@@ -1,4 +1,4 @@
-<link rel="icon" href="{{ site.baseurl }}/public/favicon.ico" type="image/x-icon"/>
+<img width="530" alt="hyrgte (2)" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/bc3830d1-1ded-4c84-b821-fd96671da7b2"><link rel="icon" href="{{ site.baseurl }}/public/favicon.ico" type="image/x-icon"/>
 
 
 # **Welcome to my website!**
@@ -47,7 +47,29 @@ Here are some photos of my creations:
     <img width="200" alt="th (2)" src="https://user-images.githubusercontent.com/125189307/229464301-aa91a037-d4c2-4b2c-b857-6323902e66fb.PNG">
     <img width="200" alt="my room" src="https://user-images.githubusercontent.com/125189307/229464582-6b47ad20-0f9d-44b4-91be-5ab497170fd0.png">
 </div>
+<br />
+<br />
+<style>
+    .image-row {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
 
+    .image-row img {
+        margin: 10px;
+    }
+</style>
+
+<div class="image-row">
+    <img width="200" alt="logo 4 good game" src="<img width="530" alt="hyrgte (2)" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/c961d31d-f333-49b3-aef1-ee315b145450">
+">
+    <img width="200" alt="th (2)" src="<img width="482" alt="sdcfew" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/fe86cd46-dd88-4a12-8bf0-487963a70f6f">
+">
+    <img width="200" alt="my room" src="<img width="286" alt="bababab (3)" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/c9ba33a0-eb12-4bd5-83c4-1ff18192af84">
+">
+</div>
 <br />
 <br />
 <br />
