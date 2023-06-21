@@ -1,6 +1,3 @@
-<img width="530" alt="hyrgte (2)" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/bc3830d1-1ded-4c84-b821-fd96671da7b2"><link rel="icon" href="{{ site.baseurl }}/public/favicon.ico" type="image/x-icon"/>
-
-
 # **Welcome to my website!**
 ## This Webstie is a Test
 <br />
