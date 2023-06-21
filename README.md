@@ -54,10 +54,6 @@ Here are some photos of my creations:
     <img alt="th (2)" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/fe86cd46-dd88-4a12-8bf0-487963a70f6f">
     <img alt="my room" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/c9ba33a0-eb12-4bd5-83c4-1ff18192af84">
 </div>
-
-</div>
-<br />
-<br />
 <br />
 <br />
 <br />
