@@ -63,11 +63,4 @@ Here are some photos of my creations:
         font-size: 24px;
     }
 </style>
-<br />
-<br />    
-<br />   
-Thank you for visiting my website
-<br />
-<br />
-
 
