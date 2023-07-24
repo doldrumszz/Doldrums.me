@@ -67,5 +67,15 @@ Here are some photos of my creations:
 <br />
 <br />
 <br />    
-Thank You for Visting my Webite
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /> 
+Thank You for Visting my website
 
