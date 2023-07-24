@@ -1,4 +1,4 @@
-<p align="center">
+
 # **Welcome to my website!**
 ## This Webstie is a Test
 </p>   
