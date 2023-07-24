@@ -54,7 +54,8 @@ Here are some photos of my creations:
 <div class="image-row">
     <img alt="logo 4 good game" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/c961d31d-f333-49b3-aef1-ee315b145450">
     <img alt="th (2)" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/fe86cd46-dd88-4a12-8bf0-487963a70f6f">
-    <img alt="my room" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/c9ba33a0-eb12-4bd5-83c4-1ff18192af84">
+    <img alt="render" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/f8fd3544-0fa8-42af-9e55-15a94fdd4c32">
+">
 <br />
 <br />
 <br />
