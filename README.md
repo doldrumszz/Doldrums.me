@@ -61,9 +61,5 @@ Here are some photos of my creations:
 <br />
 <br />
 <br />
-<style>
-    .thank-you {
-        font-size: 24px;
-    }
-</style>
+Thank You for Visting my Webite
 
