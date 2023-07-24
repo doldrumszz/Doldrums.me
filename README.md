@@ -57,25 +57,3 @@ Here are some photos of my creations:
     <img alt="render" src="https://github.com/doldrumszz/doldrums.me/assets/125189307/f8fd3544-0fa8-42af-9e55-15a94fdd4c32
 ">
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />    
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br /> 
-Thank You for Visting my website
-
