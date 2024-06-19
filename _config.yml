@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Configuration file for Jekyll
-title: doldrums.me
+title: doldrums.tech
 favicon: /static/favicon.ico.png
 
